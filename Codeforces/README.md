@@ -10,4 +10,4 @@
 
 ### Contest 1850 <a href='https://codeforces.com/contest/1850'>#</a>
 - <a href='https://codeforces.com/contest/1850/problem/A'>A. To My Critics</a> <a href='https://github.com/happydm09/PS/blob/main/Codeforces/Code/1850-A.py'>(답안 Answer)</a>
-- <a href='https://codeforces.com/contest/1850/problem/B'>B. Ten Words of Wisdom</a> <a href='https://github.com/happydm09/PS/blob/main/Codeforces/Code/1850-A.py'>(답안 Answer)</a>
+- <a href='https://codeforces.com/contest/1850/problem/B'>B. Ten Words of Wisdom</a> <a href='https://github.com/happydm09/PS/blob/main/Codeforces/Code/1850-B.py'>(답안 Answer)</a>
