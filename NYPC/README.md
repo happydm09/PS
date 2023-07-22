@@ -8,3 +8,5 @@
 
 - 2022 <br>
    <img src='https://static.solved.ac/tier_small/2.svg' height='15'></img> <a href='https://nypc.github.io/2022/round1_p1'>Round 1 연습 문제 - '레이스 기록 검증'</a> <a href='https://github.com/happydm09/PS/blob/main/NYPC/2022-R1-T1.py'>(답안)</a>
+   <br>
+   <img src='https://static.solved.ac/tier_small/5.svg' height='15'></img> <a href='https://nypc.github.io/2022/round1_1'>Round 1 첫번째 문제 - '인류의 적 모기 퇴치'</a> <a href='https://github.com/happydm09/PS/blob/main/NYPC/2022-R1-1.py'>(답안)</a>
