@@ -5,3 +5,4 @@ Leet Code, 미국판 백준.
 
 ## Solved
 - <a href='https://github.com/happydm09/PS/tree/main/LeetCode/Easy'>Easy</a>
+- <a href='https://github.com/happydm09/PS/tree/main/LeetCode/Medium'>Medium</a>
