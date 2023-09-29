@@ -1,3 +1,4 @@
+# Using DP
 dp = [0] * 35
 n = 10
 
@@ -15,4 +16,20 @@ for i in range(6, 35):
 print(n)
 
 # Answer: 4613732
-# Place: 778415
+# Place: 778415th
+
+# -------------------------
+
+# Easy ver
+n1, n2 = 1, 2
+n = 2
+
+cur = n1 + n2
+
+while cur < 4000000:
+    if cur % 2 == 0: n += cur
+    n1 = n2
+    n2 = cur
+    cur = n1 + n2
+
+print(n)
