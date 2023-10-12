@@ -8,6 +8,9 @@
 - <a href='https://codeforces.com/contest/99/problem/A'>99-A. Help Far Away Kingdom</a> <a href='https://github.com/happydm09/PS/blob/main/Codeforces/Code/99-A.py'>(답안 Answer)</a>
 - <a href='https://codeforces.com/contest/1844/problem/A'>1844-A. Subtraction Game</a> <a href='https://github.com/happydm09/PS/blob/main/Codeforces/Code/1844-A.py'>(답안 Answer)</a>
 - <a href='https://codeforces.com/contest/1866/problem/A'>1866-A. Ambitious Kid</a> <a href='https://github.com/happydm09/PS/blob/main/Codeforces/Code/1866-A.py'>(답안 Answer)</a>
+- <a href='https://codeforces.com/contest/1873/problem/A'>1873-A. Short Sort</a> <a href='https://github.com/happydm09/PS/blob/main/Codeforces/Code/1873-A.py'>(답안 Answer)</a>
+- <a href='https://codeforces.com/contest/1878/problem/A'>1878-A. How Much Does Daytona Cost?</a> <a href='https://github.com/happydm09/PS/blob/main/Codeforces/Code/1878-A.py'>(답안 Answer)</a>
+- <a href='https://codeforces.com/contest/1881/problem/A'>1881-A. Don't Try to Count</a> <a href='https://github.com/happydm09/PS/blob/main/Codeforces/Code/1881-A.py'>(답안 Answer)</a>
 
 ### Contest 1850 <a href='https://codeforces.com/contest/1850'>#</a>
 - <a href='https://codeforces.com/contest/1850/problem/A'>A. To My Critics</a> <a href='https://github.com/happydm09/PS/blob/main/Codeforces/Code/1850-A.py'>(답안 Answer)</a>
